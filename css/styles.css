@@ -1,0 +1,36 @@
+body {
+   background-color: gray;
+    text-align: center;
+}
+
+input {
+  width: 100%;
+  box-sizing: border-box;
+  margin: 0 0 15px;
+  height: 30px;
+  border: none;
+  padding: 0 10px;
+  font-size: 16px;
+  border-bottom: 1px solid #3a65f3;
+  font-family: helvetica;
+  font-weight: 100; }
+
+
+.contactImage {
+    margin-top: 25px;
+    padding-top: 10px;
+}
+
+
+.contactItem {
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+.contactList {
+    background-color: gray;
+}
+
+.contactForm {
+    text-align: center;
+}
